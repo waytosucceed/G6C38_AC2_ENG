@@ -1,0 +1,222 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What is the main idea of the passage below?<br> 'Koalas are marsupials that live in eucalyptus trees in Australia. They eat only eucalyptus leaves and sleep up to 20 hours a day. These animals are loved for their cute appearance and calm nature.'",
+    "options": [
+      "Koalas eat a lot of eucalyptus leaves.",
+      "Koalas are loved for their cute appearance.",
+      "Koalas sleep in eucalyptus trees and eat leaves.",
+      "Koalas are marsupials that live in eucalyptus trees and have unique habits."
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Which sentence best states the main idea of the following passage? <br>'The Battle of the Somme was one of the deadliest battles of World War I. It lasted for months and involved many countries. Over a million soldiers were killed or injured, making it a key moment in history.'",
+    "options": [
+      "Many soldiers were killed in the Battle of the Somme.",
+      "The Battle of the Somme was a long and deadly event in World War I.",
+      "World War I had many battles, but the Somme was the longest.",
+      "The Battle of the Somme showed how dangerous wars can be."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What is the main idea of this passage? <br>'Hiking is a popular activity in Australia because of its scenic landscapes and trails. Families enjoy hiking together to see wildlife and nature. Popular spots like Uluru attract hikers from around the world.'",
+    "options": [
+      "Hiking is a fun activity in Australia.",
+      "Hiking lets people enjoy beautiful views and wildlife in Australia.",
+      "Many families hike together in Australia.",
+      "Uluru is a famous hiking spot in Australia."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "What is the main idea of the following sentence?<br> 'The Allies fought bravely during World War I to defeat the German forces and protect their nations.'",
+    "options": [
+      "The Allies protected their nations.",
+      "World War I involved German forces.",
+      "The Allies were brave and fought to win the war.",
+      "The Allies fought during World War I."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Every morning, Sarah wakes up at 6 AM to feed her three horses. She brushes their coats until they shine, cleans their stalls, and fills their water troughs. Before heading to school, she always takes a moment to check their hooves for any problems. After school, she returns to exercise each horse and give them their evening meal.<br> What is the main idea of this passage?",
+    "options": [
+      "Sarah goes to school every day.",
+      "Sarah loves to brush horses.",
+      "Sarah is a responsible horse caregiver.",
+      "Horses need to be fed twice a day."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "The Amazon rainforest is home to more than three million species of plants and animals. Its trees produce about 20% of the world's oxygen. The forest covers an area so vast that if it were a country, it would be the ninth largest in the world. Scientists discover new species there almost every day.<br> What is the main idea of this passage?",
+    "options": [
+      "The Amazon rainforest is very large.",
+      "The Amazon rainforest is an incredibly diverse and important ecosystem.",
+      "Scientists work in the Amazon rainforest.",
+      "The Amazon produces oxygen."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Over the last decade, smartphones have changed how we live. People use them to navigate unfamiliar cities, stay in touch with friends, take photos, shop online, and even control their home appliances. For many, checking their phone is the first and last thing they do each day.<br> What is the main idea of this passage?",
+    "options": [
+      "Smartphones are used for navigation.",
+      "People are addicted to their phones.",
+      "Smartphones have revolutionised daily life.",
+      "Smartphones help people stay in touch with friends."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "The ancient Egyptians were masters of preservation. They developed complex mummification processes that could preserve bodies for thousands of years. Their buildings were constructed to last for centuries, and many still stand today. Even their writing, carved in stone and written on papyrus, has survived to tell us their stories.<br> What is the main idea of this passage?",
+    "options": [
+      "Ancient Egyptians were excellent builders.",
+      "Ancient Egyptians developed remarkable preservation techniques.",
+      "Ancient Egyptians created mummies.",
+      "Ancient Egyptian writing has survived."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "During the Industrial Revolution, cities grew rapidly as people moved from farms to factories. Housing was quickly built to accommodate workers, often resulting in crowded and unsanitary conditions. New transportation systems, like railways, connected cities and transformed commerce.<br> What is the main idea of this passage?",
+    "options": [
+      "The Industrial Revolution led to major urban changes.",
+      "Factories replaced farms during the Industrial Revolution.",
+      "Cities became crowded during the Industrial Revolution.",
+      "Railways were built during the Industrial Revolution."
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Honey bees communicate through an intricate dance language. When a worker bee finds food, it returns to the hive and performs specific movements. These dances tell other bees the distance and direction of the food source. The longer the dance, the farther away the food is located.<br> What is the main idea of this passage?",
+    "options": [
+      "Bees like to dance in their hives.",
+      "Bees use dance as a sophisticated communication system.",
+      "Worker bees search for food.",
+      "Bees can measure distance."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "The human body's immune system works like a highly trained army. White blood cells patrol the bloodstream, identifying and attacking harmful invaders. Special cells remember previous infections to respond more quickly in the future. Other cells produce antibodies to fight specific diseases.<br> What is the main idea of this passage?",
+    "options": [
+      "White blood cells fight disease.",
+      "The immune system protects against disease in multiple ways.",
+      "The body produces antibodies.",
+      "The immune system is like an army."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Before a hurricane arrives, meteorologists track its path using satellites and radar. Emergency services prepare rescue equipment and supplies. Local authorities issue evacuation orders for dangerous areas. Radio and TV stations broadcast constant updates to keep people informed.<br> What is the main idea of this passage?",
+    "options": [
+      "Multiple organisations prepare for and respond to hurricanes.",
+      "Hurricanes are dangerous storms.",
+      "Meteorologists track hurricanes.",
+      "People should evacuate during hurricanes."
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Solar panels convert sunlight into electricity without producing pollution. They can be installed on rooftops, reducing electricity bills for homeowners. Large solar farms can power thousands of homes. Unlike fossil fuels, solar energy is renewable and will never run out.<br> What is the main idea of this passage?",
+    "options": [
+      "Solar panels save money.",
+      "Solar energy is better than fossil fuels.",
+      "Solar energy is a beneficial and sustainable power source.",
+      "Solar farms are very large."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "In traditional Japanese gardens, every element has meaning. Rocks represent mountains, sand patterns symbolize water, and carefully pruned trees show respect for nature. These gardens are designed to create peaceful spaces for meditation and reflection.<br> What is the main idea of this passage?",
+    "options": [
+      "Japanese gardens use rocks and sand.",
+      "Japanese gardens are carefully designed with symbolic meaning.",
+      "Japanese people like to meditate.",
+      "Trees in Japanese gardens are pruned."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "During the water cycle, the sun heats ocean water, causing it to evaporate into the air. This water vapour forms clouds, which eventually release rain or snow. This precipitation flows into rivers and streams, eventually returning to the oceans, and the cycle continues.<br> What is the main idea of this passage?",
+    "options": [
+      "The sun causes water to evaporate.",
+      "Clouds produce rain and snow.",
+      "Water moves through a continuous natural cycle.",
+      "Oceans contain most of Earth's water."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "In the sentence 'The extremely talented musician played beautifully,' identify the adverb of manner.",
+    "options": [
+      "played",
+      "talented",
+      "beautifully",
+      "musician"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which type of conjunction is used in the sentence<br> 'Neither the cat nor the dog wanted to go outside'?",
+    "options": [
+      "Coordinating conjunction",
+      "Correlative conjunction",
+      "Subordinating conjunction",
+      "Compound conjunction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which sentence uses an adverb of frequency?",
+    "options": [
+      "He ran quickly.",
+      "The bird flew high.",
+      "They played there.",
+      "She often visits her grandmother."
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "What type of conjunction joins these two independent clauses:<br> 'I wanted to go to the party, but I had to study'?",
+    "options": [
+      "Coordinating conjunction",
+      "Subordinating conjunction",
+      "Correlative conjunction",
+      "Compound conjunction"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which sentence demonstrates the correct use of a subordinating conjunction?",
+    "options": [
+      "I like pizza and pasta.",
+      "Although it was raining, we went for a walk.",
+      "Either you come or you stay.",
+      "The dog barked but the cat slept."
+    ],
+    "correct": 1
+  }
+]
